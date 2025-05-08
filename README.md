@@ -24,6 +24,8 @@ O objetivo deste componente é exibir uma imagem e uma legenda, onde a URL da im
 **1. Instale as dependências**
 
 ```
+cd To-Do-List-Galeria
+```
 npm install
 # ou
 yarn
