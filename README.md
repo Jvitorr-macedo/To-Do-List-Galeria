@@ -47,3 +47,8 @@ Acesse `http://localhost:5173` no navegador.
 
 - **React** – Biblioteca JavaScript para criação de interfaces de usuário.
 - **TypeScript** – Superset do JavaScript com tipagem estática.
+
+## Projeto Funcionando
+
+![Captura de tela 2025-05-08 141519](https://github.com/user-attachments/assets/a4ae3b9d-9e3c-4ee4-a3b5-0390794ebd39)
+
